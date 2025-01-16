@@ -15,7 +15,7 @@ BandChain - Decentralized Data Delivery Network<br/><br/>
     <img src="https://goreportcard.com/badge/github.com/bandprotocol/chain">
 </a>
 <a href="https://github.com/bandprotocol/chain/workflows/Tests/badge.svg">
-    <img src="https://github.com/bandprotocol/chain/workflows/Tests/badge.svg">
+    <img src="https://github.com/bandprotocol/chain/actions/workflows/ci.yaml">
 </a>
 
 <p align="center">
